@@ -28,7 +28,7 @@ Users should be able to:
 ![](./images/ss.png)
 
 ### Links
-- Live Site URL: [URL](https://your-live-site-url.com)
+- Live Site URL: [URL](https://haardikmishra020.github.io/3-Column-preview-card-component/)
 
 ## My process
 
